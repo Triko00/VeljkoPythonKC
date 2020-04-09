@@ -1,7 +1,3 @@
-# Domaci rad Informatika - Logicki operatori
-# Autor: Veljko Trajkovic
-# Datum: 9. april 2020
-
 print("Zbog virusa COVID-19 kretanje je dozvoljeno od 5 do 17h.")
 
 godine = int(input("Koliko imate godina: "))
